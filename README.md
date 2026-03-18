@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohit Kushawah
 
-<!--
-**MOHITKUSHWA/MOHITKUSHWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **MERN Stack Developer**
+🚀 Passionate about building scalable, fast & user-friendly web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🌱 Currently learning **Advanced Backend & System Design**
+* 🔥 Love working with **JavaScript & modern frameworks**
+* 💼 9 months of **live project experience**
+* 📍 Based in **Ahmedabad & Rajkot, India**
+* 🎯 Goal: Become a **Top Full-Stack Developer**
+* ⚡ Fun fact: I turn ☕ into clean code
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Bootstrap
+
+### 🔧 Backend
+
+* Node.js
+* Express.js
+
+### 🗄️ Database
+
+* MongoDB
+* MySQL
+
+### ⚙️ Tools & Technologies
+
+* Git & GitHub
+* Postman
+* VS Code
+* REST APIs
+
+---
+
+## 💼 Experience
+
+* 👨‍💻 Worked on **real-world projects** using MERN stack
+* 🔗 Built dynamic web applications with **API integration**
+* 🛠️ Experience in **CRUD operations, authentication, and deployment**
+
+---
+
+## 📂 Projects
+
+* 📝 To-Do App (LocalStorage based)
+* 🏠 Airbnb Clone (MERN Stack)
+* 🔐 Authentication System
+* 📊 Admin Dashboard
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/mohit-kushawah
+* 📧 Email: [kushwahmohit757@gmail.com](mailto:kushwahmohit757@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHITKUSHWA\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Top Skills
+
+* MERN Stack Development
+* REST API Development
+* Responsive UI Design
+* Problem Solving
+
+---
+
+⭐️ From [Mohit Kushawah](https://github.com/MOHITKUSHWA)
