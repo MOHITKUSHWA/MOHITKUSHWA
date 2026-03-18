@@ -72,12 +72,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHITKUSHWA\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🔥 Top Skills
 
 * MERN Stack Development
