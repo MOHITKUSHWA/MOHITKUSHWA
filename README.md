@@ -4,6 +4,9 @@
 🚀 Passionate about building scalable, fast & user-friendly web applications
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MOHITKUSHWA/MOHITKUSHWA/main/Github Banner.png" />
+</p>
 
 ## 🧑‍💻 About Me
 
